@@ -1,2 +1,2 @@
 # CleanArchitectureRepositoyPattern
-Clean Architecture Repositoy Pattern And UnitOfWork
+Clean  Architecture Repositoy Pattern And UnitOfWork
